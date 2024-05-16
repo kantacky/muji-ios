@@ -1,0 +1,3 @@
+import MUJIPackage
+
+MUJIApp.main()
